@@ -1,0 +1,6 @@
+INFO:root:file opened
+INFO:root:first line written
+INFO:root:second line written
+INFO:root:file closed
+INFO:root:file read
+INFO:root:file appended

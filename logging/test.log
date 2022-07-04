@@ -1,0 +1,23 @@
+2022-06-27 10:33:32,472 This is a message for error
+2022-06-27 10:33:32,696 error has occured
+2022-06-27 10:33:32,696 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-11-827c305ae82a>", line 5, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2022-06-27 10:35:13,882 This is a message for error
+2022-06-27 10:35:14,104 error has occured
+2022-06-27 10:35:14,109 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-10-827c305ae82a>", line 5, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2022-06-27 10:41:45,665 This is a error log
+2022-06-28 11:22:24,719 This is a message for error
+2022-06-28 11:22:24,936 error has occured
+2022-06-28 11:22:24,936 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-54-827c305ae82a>", line 5, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2022-06-28 11:22:25,486 This is a error log
